@@ -1,0 +1,9 @@
+{
+    "api_id" : 19977182,
+    "api_hash" : "17090836bf8a86617ed5739248226128",
+    "chat_ids_path" : "chat_ids.txt",
+    "bot_name" : "UnlimitedBot",
+    "allowed_users" : [
+        "hustly"
+    ]
+}
